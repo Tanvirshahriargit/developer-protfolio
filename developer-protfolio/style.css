@@ -8,7 +8,7 @@ h1{
 h1 span{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 100px ;
 }
